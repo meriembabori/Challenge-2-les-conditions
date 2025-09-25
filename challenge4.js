@@ -23,10 +23,3 @@ for (let i=2;i<=NP/2;i++)
     }
 }
 console.log("Le nombre ", NP,"est premier :",N);
-// challenge 5 : Écris un programme qui lit une série de nombres positifs < 100, terminée par 0. 
-let nombre =Prompt("Entrer un nombre ");
-let somme=0;
-let maximum=0;
-let i=0;
-
-     while(nombre<100 && )
